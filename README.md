@@ -1,4 +1,4 @@
-<h1>**Hi, I'm Roman 👋**</h1>
+**Hi, I'm Roman 👋**
 
 I'm a software developer specializing in building integration solutions for messengers and platforms. My expertise lies in developing web services and applications using Go and Python that connect various systems through APIs and ensure their seamless interaction.
 
