@@ -14,4 +14,4 @@ A real-time cryptocurrency analytics bot for Telegram that tracks price movement
 
 A tour booking service platform for Asian destinations, built with Go and the Gin framework. Provides real-time availability checking, secure payment processing, and an integrated booking management system with automated confirmations and itinerary generation.
 
-![Reyzdor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reyzdor&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Reyzdor&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
