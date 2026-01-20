@@ -14,4 +14,4 @@ A real-time cryptocurrency analytics bot for Telegram that tracks price movement
 
 A tour booking service platform for Asian destinations, built with Go and the Gin framework. Provides real-time availability checking, secure payment processing, and an integrated booking management system with automated confirmations and itinerary generation.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Reyzdor=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
