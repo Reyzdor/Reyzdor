@@ -6,4 +6,6 @@ Currently, I design and implement comprehensive integrations for [Telegram](http
 
 **My Projects**
 
-[Crypto Radar](https://github.com/Reyzdor/main-crypto) - A real-time cryptocurrency analytics bot for Telegram that tracks price movements with live-updating charts, provides key market metrics, and generates automated buy/sell recommendations. Designed to help users maintain portfolio balance and make informed trading decisions through intelligent alerts. Currently in beta, built with Go for backend logic and real-time data processing.
+**Crypto Radar** - https://github.com/Reyzdor/main-crypto
+
+A real-time cryptocurrency analytics bot for Telegram that tracks price movements with live-updating charts, provides key market metrics, and generates automated buy/sell recommendations. Designed to help users maintain portfolio balance and make informed trading decisions through intelligent alerts. Currently in beta, built with Go for backend logic and real-time data processing.
