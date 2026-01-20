@@ -16,4 +16,4 @@ A tour booking service platform for Asian destinations, built with Go and the Gi
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reyzdor&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reyzdor&theme=radical)
